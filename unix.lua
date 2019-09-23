@@ -1,6 +1,6 @@
 -- flax_stable.lua v1.2 -- by Jimbly, tweaked by Cegaiel and
 --   KasumiGhia, revised by Tallow.
--- test
+-- test2
 -- Plant flax and harvest either flax or seeds.
 --
 -- Works Reliably: 2x2, 3x3, 4x4, 5x5
